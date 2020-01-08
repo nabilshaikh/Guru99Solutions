@@ -1,0 +1,2 @@
+[0107/175153.255:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\NABIL~1.SHA\AppData\Local\Temp\scoped_dir9380_1701062526\Crashpad: The system cannot find the file specified. (0x2)
+[0107/175757.790:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\NABIL~1.SHA\AppData\Local\Temp\scoped_dir7728_301940913\Crashpad: The system cannot find the file specified. (0x2)
